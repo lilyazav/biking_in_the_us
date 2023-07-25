@@ -24,8 +24,28 @@
   color: white;
 }
 
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  min-height: 600px;
+
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.tooltip {
+  position: absolute;
+  pointer-events: none;
+  color: #000;
+  background-color: #fff;
+  border: 1px solid black;
+  padding: 5px;
+  z-index: 100;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +55,62 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.float-container {
+  padding: 20px;
+  width: 100%;
+  margin: 10px 50px;
+}
+
+.float-child-80 {
+  width: 80%;
+  float: left;
+  text-align: center;
+}
+
+@media (min-width: 1060px) {
+  .float-child-70 {
+    width: 70%;
+    float: left;
+    text-align: center;
+  }
+  .float-child-30 {
+    width: 30%;
+    float: left;
+    text-align: center;
+  }
+}
+
+.float-child-70 {
+  text-align: center;
+}
+
+.float-child-30 {
+  text-align: center;
+}
+
+
+.float-child-60 {
+  width: 60%;
+  float: left;
+  text-align: center;
+}
+
+.float-child-50 {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.float-child-20 {
+  width: 20%;
+  float: left;
+}
+
+.graphicHeader {
+  width: 100%;
+  text-align: center;
+  background-color: lightblue;
+  padding: 10px;
 }
