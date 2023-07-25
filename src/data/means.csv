@@ -1,0 +1,478 @@
+"","Means","Location","People","Error"
+"1","Total","Alabama",2165588,17335
+"2","Car","Alabama",1908684,17403
+"3","Public Transportation","Alabama",4978,1387
+"4","Taxi","Alabama",1218,587
+"5","Motorcycle","Alabama",2037,831
+"6","Bicycle","Alabama",2180,913
+"7","Walked","Alabama",20063,2813
+"8","Other","Alabama",17661,3060
+"9","Worked From Home","Alabama",208767,9741
+"10","Total","Alaska",343883,5908
+"11","Car","Alaska",265746,6305
+"12","Public Transportation","Alaska",2982,1341
+"13","Taxi","Alaska",1186,596
+"14","Motorcycle","Alaska",617,272
+"15","Bicycle","Alaska",2932,991
+"16","Walked","Alaska",23298,2482
+"17","Other","Alaska",11660,1550
+"18","Worked From Home","Alaska",35462,3281
+"19","Total","Arizona",3280184,18181
+"20","Car","Arizona",2451313,19441
+"21","Public Transportation","Arizona",30777,4383
+"22","Taxi","Arizona",4451,1396
+"23","Motorcycle","Arizona",9506,1807
+"24","Bicycle","Arizona",13321,2066
+"25","Walked","Arizona",51341,4660
+"26","Other","Arizona",39016,3726
+"27","Worked From Home","Arizona",680459,14376
+"28","Total","Arkansas",1307917,12143
+"29","Car","Arkansas",1147366,12838
+"30","Public Transportation","Arkansas",2475,1044
+"31","Taxi","Arkansas",1291,906
+"32","Motorcycle","Arkansas",1134,553
+"33","Bicycle","Arkansas",1227,590
+"34","Walked","Arkansas",17634,2519
+"35","Other","Arkansas",9405,1770
+"36","Worked From Home","Arkansas",127385,6474
+"37","Total","California",17811184,49915
+"38","Car","California",12839382,50551
+"39","Public Transportation","California",368334,10731
+"40","Taxi","California",24954,3553
+"41","Motorcycle","California",34872,2937
+"42","Bicycle","California",106220,5940
+"43","Walked","California",378788,12900
+"44","Other","California",246564,10696
+"45","Worked From Home","California",3812070,37862
+"46","Total","Colorado",2992582,15378
+"47","Car","Colorado",2116826,18770
+"48","Public Transportation","Colorado",39568,4250
+"49","Taxi","Colorado",1967,741
+"50","Motorcycle","Colorado",3346,828
+"51","Bicycle","Colorado",23196,2266
+"52","Walked","Colorado",67640,4318
+"53","Other","Colorado",29379,3860
+"54","Worked From Home","Colorado",710660,13946
+"55","Total","Connecticut",1778730,13017
+"56","Car","Connecticut",1316267,15505
+"57","Public Transportation","Connecticut",43738,3796
+"58","Taxi","Connecticut",4648,1738
+"59","Motorcycle","Connecticut",876,464
+"60","Bicycle","Connecticut",3325,1105
+"61","Walked","Connecticut",45048,4014
+"62","Other","Connecticut",18473,2713
+"63","Worked From Home","Connecticut",346355,9346
+"64","Total","Delaware",455993,6159
+"65","Car","Delaware",349968,8200
+"66","Public Transportation","Delaware",7415,2365
+"67","Taxi","Delaware",712,689
+"68","Motorcycle","Delaware",52,65
+"69","Bicycle","Delaware",1615,851
+"70","Walked","Delaware",5931,1204
+"71","Other","Delaware",5673,1400
+"72","Worked From Home","Delaware",84627,5141
+"73","Total","District of Columbia",354033,5813
+"74","Car","District of Columbia",101476,5477
+"75","Public Transportation","District of Columbia",41133,3979
+"76","Taxi","District of Columbia",1358,668
+"77","Motorcycle","District of Columbia",594,466
+"78","Bicycle","District of Columbia",7504,1458
+"79","Walked","District of Columbia",23861,2665
+"80","Other","District of Columbia",7136,1826
+"81","Worked From Home","District of Columbia",170971,6761
+"82","Total","Florida",9859704,44216
+"83","Car","Florida",7785084,44463
+"84","Public Transportation","Florida",96122,6180
+"85","Taxi","Florida",25188,3774
+"86","Motorcycle","Florida",13993,2349
+"87","Bicycle","Florida",43306,4498
+"88","Walked","Florida",127926,7587
+"89","Other","Florida",127790,7932
+"90","Worked From Home","Florida",1640295,26595
+"91","Total","Georgia",4982073,27633
+"92","Car","Georgia",3899976,32929
+"93","Public Transportation","Georgia",35331,4383
+"94","Taxi","Georgia",10410,2246
+"95","Motorcycle","Georgia",3489,1160
+"96","Bicycle","Georgia",7244,2051
+"97","Walked","Georgia",59268,6424
+"98","Other","Georgia",60469,6393
+"99","Worked From Home","Georgia",905886,19484
+"100","Total","Hawaii",668446,7642
+"101","Car","Hawaii",529811,8484
+"102","Public Transportation","Hawaii",22025,3304
+"103","Taxi","Hawaii",1152,848
+"104","Motorcycle","Hawaii",3702,1088
+"105","Bicycle","Hawaii",4847,997
+"106","Walked","Hawaii",26834,3089
+"107","Other","Hawaii",8375,1712
+"108","Worked From Home","Hawaii",71700,5539
+"109","Total","Idaho",889536,8483
+"110","Car","Idaho",734363,9438
+"111","Public Transportation","Idaho",4263,1392
+"112","Taxi","Idaho",420,388
+"113","Motorcycle","Idaho",1969,898
+"114","Bicycle","Idaho",6708,1767
+"115","Walked","Idaho",16746,2562
+"116","Other","Idaho",7160,1566
+"117","Worked From Home","Idaho",117907,5602
+"118","Total","Illinois",5975117,24073
+"119","Car","Illinois",4320589,27413
+"120","Public Transportation","Illinois",228866,7942
+"121","Taxi","Illinois",16249,2691
+"122","Motorcycle","Illinois",3300,825
+"123","Bicycle","Illinois",31234,3383
+"124","Walked","Illinois",155905,8088
+"125","Other","Illinois",68417,5467
+"126","Worked From Home","Illinois",1150557,17368
+"127","Total","Indiana",3196939,17446
+"128","Car","Indiana",2696684,18649
+"129","Public Transportation","Indiana",17846,2830
+"130","Taxi","Indiana",2047,836
+"131","Motorcycle","Indiana",2283,721
+"132","Bicycle","Indiana",12201,2046
+"133","Walked","Indiana",64306,4909
+"134","Other","Indiana",22319,2821
+"135","Worked From Home","Indiana",379253,11369
+"136","Total","Iowa",1588122,11096
+"137","Car","Iowa",1300361,12895
+"138","Public Transportation","Iowa",7727,1801
+"139","Taxi","Iowa",3010,1191
+"140","Motorcycle","Iowa",1095,371
+"141","Bicycle","Iowa",4853,1112
+"142","Walked","Iowa",44911,3370
+"143","Other","Iowa",12859,2173
+"144","Worked From Home","Iowa",213306,8948
+"145","Total","Kansas",1429591,11255
+"146","Car","Kansas",1176577,13652
+"147","Public Transportation","Kansas",3803,1507
+"148","Taxi","Kansas",2144,1056
+"149","Motorcycle","Kansas",1432,553
+"150","Bicycle","Kansas",3893,1190
+"151","Walked","Kansas",31824,3262
+"152","Other","Kansas",12302,2107
+"153","Worked From Home","Kansas",197616,7607
+"154","Total","Kentucky",1962428,14468
+"155","Car","Kentucky",1665043,14295
+"156","Public Transportation","Kentucky",10497,1878
+"157","Taxi","Kentucky",2275,994
+"158","Motorcycle","Kentucky",1225,620
+"159","Bicycle","Kentucky",2958,965
+"160","Walked","Kentucky",39511,2843
+"161","Other","Kentucky",16210,2444
+"162","Worked From Home","Kentucky",224709,9301
+"163","Total","Louisiana",1939334,21774
+"164","Car","Louisiana",1698222,21639
+"165","Public Transportation","Louisiana",14524,2751
+"166","Taxi","Louisiana",3957,1771
+"167","Motorcycle","Louisiana",372,279
+"168","Bicycle","Louisiana",6796,1619
+"169","Walked","Louisiana",27706,3447
+"170","Other","Louisiana",24753,2972
+"171","Worked From Home","Louisiana",163004,8730
+"172","Total","Maine",660465,7970
+"173","Car","Maine",508140,9346
+"174","Public Transportation","Maine",1702,646
+"175","Taxi","Maine",939,527
+"176","Motorcycle","Maine",585,388
+"177","Bicycle","Maine",1901,660
+"178","Walked","Maine",24819,2793
+"179","Other","Maine",5187,1249
+"180","Worked From Home","Maine",117192,5126
+"181","Total","Maryland",3052346,20623
+"182","Car","Maryland",2112296,23515
+"183","Public Transportation","Maryland",91172,5813
+"184","Taxi","Maryland",11575,2279
+"185","Motorcycle","Maryland",1945,692
+"186","Bicycle","Maryland",6791,2052
+"187","Walked","Maryland",53562,4217
+"188","Other","Maryland",41828,4008
+"189","Worked From Home","Maryland",733177,14855
+"190","Total","Massachusetts",3525906,22874
+"191","Car","Massachusetts",2319276,22304
+"192","Public Transportation","Massachusetts",158841,6675
+"193","Taxi","Massachusetts",11741,2054
+"194","Motorcycle","Massachusetts",1705,616
+"195","Bicycle","Massachusetts",22399,2322
+"196","Walked","Massachusetts",130517,6254
+"197","Other","Massachusetts",45428,4424
+"198","Worked From Home","Massachusetts",835999,14798
+"199","Total","Michigan",4526178,22070
+"200","Car","Michigan",3606957,23690
+"201","Public Transportation","Michigan",38084,3690
+"202","Taxi","Michigan",3158,1007
+"203","Motorcycle","Michigan",2458,850
+"204","Bicycle","Michigan",13950,1609
+"205","Walked","Michigan",81447,4853
+"206","Other","Michigan",38375,4011
+"207","Worked From Home","Michigan",741749,14221
+"208","Total","Minnesota",2908142,14659
+"209","Car","Minnesota",2140012,19147
+"210","Public Transportation","Minnesota",40633,3993
+"211","Taxi","Minnesota",4697,1439
+"212","Motorcycle","Minnesota",2112,557
+"213","Bicycle","Minnesota",12616,1905
+"214","Walked","Minnesota",73101,4022
+"215","Other","Minnesota",27047,3034
+"216","Worked From Home","Minnesota",607924,12580
+"217","Total","Mississippi",1215180,14783
+"218","Car","Mississippi",1103895,14989
+"219","Public Transportation","Mississippi",2851,934
+"220","Taxi","Mississippi",770,448
+"221","Motorcycle","Mississippi",775,436
+"222","Bicycle","Mississippi",600,377
+"223","Walked","Mississippi",12388,1627
+"224","Other","Mississippi",17937,2952
+"225","Worked From Home","Mississippi",75964,5470
+"226","Total","Missouri",2909996,16310
+"227","Car","Missouri",2371958,19450
+"228","Public Transportation","Missouri",22330,3656
+"229","Taxi","Missouri",2195,868
+"230","Motorcycle","Missouri",3231,1050
+"231","Bicycle","Missouri",4019,1149
+"232","Walked","Missouri",53644,4568
+"233","Other","Missouri",24655,3386
+"234","Worked From Home","Missouri",427964,15026
+"235","Total","Montana",522807,7633
+"236","Car","Montana",417906,8517
+"237","Public Transportation","Montana",2140,840
+"238","Taxi","Montana",0,184
+"239","Motorcycle","Montana",372,237
+"240","Bicycle","Montana",6395,1539
+"241","Walked","Montana",18629,2387
+"242","Other","Montana",3943,903
+"243","Worked From Home","Montana",73422,4683
+"244","Total","Nebraska",1009912,8490
+"245","Car","Nebraska",838033,9928
+"246","Public Transportation","Nebraska",4258,1164
+"247","Taxi","Nebraska",276,215
+"248","Motorcycle","Nebraska",1395,649
+"249","Bicycle","Nebraska",3081,892
+"250","Walked","Nebraska",24231,2279
+"251","Other","Nebraska",9141,1691
+"252","Worked From Home","Nebraska",129497,5413
+"253","Total","Nevada",1405397,13660
+"254","Car","Nevada",1133595,13584
+"255","Public Transportation","Nevada",27896,3129
+"256","Taxi","Nevada",1491,603
+"257","Motorcycle","Nevada",4068,1255
+"258","Bicycle","Nevada",2754,1053
+"259","Walked","Nevada",18433,2308
+"260","Other","Nevada",34826,4267
+"261","Worked From Home","Nevada",182334,8565
+"262","Total","New Hampshire",733129,8064
+"263","Car","New Hampshire",563908,9250
+"264","Public Transportation","New Hampshire",2530,868
+"265","Taxi","New Hampshire",512,392
+"266","Motorcycle","New Hampshire",348,220
+"267","Bicycle","New Hampshire",553,248
+"268","Walked","New Hampshire",15822,2104
+"269","Other","New Hampshire",7648,1912
+"270","Worked From Home","New Hampshire",141808,6660
+"271","Total","New Jersey",4414552,23015
+"272","Car","New Jersey",2957957,25351
+"273","Public Transportation","New Jersey",259156,9376
+"274","Taxi","New Jersey",24287,3102
+"275","Motorcycle","New Jersey",947,483
+"276","Bicycle","New Jersey",12062,2275
+"277","Walked","New Jersey",105042,6544
+"278","Other","New Jersey",77587,6987
+"279","Worked From Home","New Jersey",977514,15144
+"280","Total","New Mexico",877399,13317
+"281","Car","New Mexico",708260,13937
+"282","Public Transportation","New Mexico",3210,1071
+"283","Taxi","New Mexico",930,598
+"284","Motorcycle","New Mexico",1251,688
+"285","Bicycle","New Mexico",5139,1595
+"286","Walked","New Mexico",14276,2599
+"287","Other","New Mexico",10679,2378
+"288","Worked From Home","New Mexico",133654,6998
+"289","Total","New York",9017848,33291
+"290","Car","New York",4974300,32536
+"291","Public Transportation","New York",1556380,22679
+"292","Taxi","New York",59594,5177
+"293","Motorcycle","New York",6482,1291
+"294","Bicycle","New York",68752,6120
+"295","Walked","New York",477303,14233
+"296","Other","New York",103760,6796
+"297","Worked From Home","New York",1771277,25470
+"298","Total","North Carolina",4887692,23189
+"299","Car","North Carolina",3807294,27434
+"300","Public Transportation","North Carolina",25104,3063
+"301","Taxi","North Carolina",7540,2000
+"302","Motorcycle","North Carolina",4290,1573
+"303","Bicycle","North Carolina",6987,1488
+"304","Walked","North Carolina",67774,4712
+"305","Other","North Carolina",51083,3859
+"306","Worked From Home","North Carolina",917620,17282
+"307","Total","North Dakota",397892,5826
+"308","Car","North Dakota",343254,6649
+"309","Public Transportation","North Dakota",1060,539
+"310","Taxi","North Dakota",549,389
+"311","Motorcycle","North Dakota",729,473
+"312","Bicycle","North Dakota",931,394
+"313","Walked","North Dakota",12101,1700
+"314","Other","North Dakota",3768,1285
+"315","Worked From Home","North Dakota",35500,3729
+"316","Total","Ohio",5492694,25560
+"317","Car","Ohio",4455064,27416
+"318","Public Transportation","Ohio",44553,4531
+"319","Taxi","Ohio",8882,2385
+"320","Motorcycle","Ohio",3845,831
+"321","Bicycle","Ohio",13790,1932
+"322","Walked","Ohio",100850,5441
+"323","Other","Ohio",50161,4471
+"324","Worked From Home","Ohio",815549,14570
+"325","Total","Oklahoma",1773947,12854
+"326","Car","Oklahoma",1523017,13625
+"327","Public Transportation","Oklahoma",3149,769
+"328","Taxi","Oklahoma",2074,864
+"329","Motorcycle","Oklahoma",2620,683
+"330","Bicycle","Oklahoma",3567,946
+"331","Walked","Oklahoma",31212,2949
+"332","Other","Oklahoma",23762,2620
+"333","Worked From Home","Oklahoma",184546,7203
+"334","Total","Oregon",1970090,16627
+"335","Car","Oregon",1387295,20427
+"336","Public Transportation","Oregon",32546,3789
+"337","Taxi","Oregon",2847,990
+"338","Motorcycle","Oregon",2680,770
+"339","Bicycle","Oregon",21048,2346
+"340","Walked","Oregon",59476,4503
+"341","Other","Oregon",17876,2367
+"342","Worked From Home","Oregon",446322,11743
+"343","Total","Pennsylvania",6072593,23317
+"344","Car","Pennsylvania",4487141,25001
+"345","Public Transportation","Pennsylvania",169447,7447
+"346","Taxi","Pennsylvania",7983,2172
+"347","Motorcycle","Pennsylvania",3440,1043
+"348","Bicycle","Pennsylvania",22744,2890
+"349","Walked","Pennsylvania",178227,7366
+"350","Other","Pennsylvania",69045,5249
+"351","Worked From Home","Pennsylvania",1134566,18585
+"352","Total","Rhode Island",533088,9361
+"353","Car","Rhode Island",409921,9254
+"354","Public Transportation","Rhode Island",6150,1735
+"355","Taxi","Rhode Island",827,454
+"356","Motorcycle","Rhode Island",328,296
+"357","Bicycle","Rhode Island",1292,515
+"358","Walked","Rhode Island",14047,2116
+"359","Other","Rhode Island",7099,1888
+"360","Worked From Home","Rhode Island",93424,5747
+"361","Total","South Carolina",2320907,18450
+"362","Car","South Carolina",1965946,18455
+"363","Public Transportation","South Carolina",7369,2058
+"364","Taxi","South Carolina",2514,977
+"365","Motorcycle","South Carolina",2234,741
+"366","Bicycle","South Carolina",5434,1568
+"367","Walked","South Carolina",37622,4472
+"368","Other","South Carolina",28233,3587
+"369","Worked From Home","South Carolina",271555,12139
+"370","Total","South Dakota",445606,6101
+"371","Car","South Dakota",373746,5989
+"372","Public Transportation","South Dakota",1867,750
+"373","Taxi","South Dakota",449,376
+"374","Motorcycle","South Dakota",519,345
+"375","Bicycle","South Dakota",1352,810
+"376","Walked","South Dakota",14332,1975
+"377","Other","South Dakota",3947,1308
+"378","Worked From Home","South Dakota",49394,3394
+"379","Total","Tennessee",3194798,22879
+"380","Car","Tennessee",2661533,23579
+"381","Public Transportation","Tennessee",11376,2519
+"382","Taxi","Tennessee",4022,1507
+"383","Motorcycle","Tennessee",1317,637
+"384","Bicycle","Tennessee",3181,1013
+"385","Walked","Tennessee",36440,3803
+"386","Other","Tennessee",30278,3796
+"387","Worked From Home","Tennessee",446651,14745
+"388","Total","Texas",13635342,45038
+"389","Car","Texas",10888163,52667
+"390","Public Transportation","Texas",102764,8046
+"391","Taxi","Texas",13757,2926
+"392","Motorcycle","Texas",11466,2150
+"393","Bicycle","Texas",29342,4296
+"394","Walked","Texas",180039,8471
+"395","Other","Texas",191519,11767
+"396","Worked From Home","Texas",2218292,31392
+"397","Total","Utah",1633712,12258
+"398","Car","Utah",1228140,14088
+"399","Public Transportation","Utah",21749,2575
+"400","Taxi","Utah",991,563
+"401","Motorcycle","Utah",3599,1065
+"402","Bicycle","Utah",9367,1830
+"403","Walked","Utah",30560,3055
+"404","Other","Utah",11972,1800
+"405","Worked From Home","Utah",327334,9478
+"406","Total","Vermont",327910,4771
+"407","Car","Vermont",244367,5072
+"408","Public Transportation","Vermont",1704,767
+"409","Taxi","Vermont",11,22
+"410","Motorcycle","Vermont",198,242
+"411","Bicycle","Vermont",1780,658
+"412","Walked","Vermont",12881,1777
+"413","Other","Vermont",2742,983
+"414","Worked From Home","Vermont",64227,3790
+"415","Total","Virginia",4262832,19982
+"416","Car","Virginia",3096900,17740
+"417","Public Transportation","Virginia",62920,4836
+"418","Taxi","Virginia",5347,1357
+"419","Motorcycle","Virginia",5363,1214
+"420","Bicycle","Virginia",10612,1893
+"421","Walked","Virginia",86385,5623
+"422","Other","Virginia",45141,3801
+"423","Worked From Home","Virginia",950164,14262
+"424","Total","Washington",3668157,17974
+"425","Car","Washington",2532641,18850
+"426","Public Transportation","Washington",77898,5160
+"427","Taxi","Washington",2939,1119
+"428","Motorcycle","Washington",6507,1621
+"429","Bicycle","Washington",20669,2455
+"430","Walked","Washington",102305,6798
+"431","Other","Washington",37654,4422
+"432","Worked From Home","Washington",887544,14592
+"433","Total","West Virginia",707299,9920
+"434","Car","West Virginia",608073,11072
+"435","Public Transportation","West Virginia",2528,797
+"436","Taxi","West Virginia",421,319
+"437","Motorcycle","West Virginia",261,311
+"438","Bicycle","West Virginia",1317,807
+"439","Walked","West Virginia",15100,2524
+"440","Other","West Virginia",7330,1680
+"441","Worked From Home","West Virginia",72269,4888
+"442","Total","Wisconsin",2945351,13460
+"443","Car","Wisconsin",2354325,15292
+"444","Public Transportation","Wisconsin",25306,2939
+"445","Taxi","Wisconsin",4502,1356
+"446","Motorcycle","Wisconsin",3422,979
+"447","Bicycle","Wisconsin",14038,1737
+"448","Walked","Wisconsin",78779,4510
+"449","Other","Wisconsin",27684,2952
+"450","Worked From Home","Wisconsin",437295,9398
+"451","Total","Wyoming",283628,5406
+"452","Car","Wyoming",241424,5580
+"453","Public Transportation","Wyoming",2252,829
+"454","Taxi","Wyoming",0,208
+"455","Motorcycle","Wyoming",290,217
+"456","Bicycle","Wyoming",2130,793
+"457","Walked","Wyoming",9520,1500
+"458","Other","Wyoming",2630,1053
+"459","Worked From Home","Wyoming",25382,2983
+"460","Total","Puerto Rico",1055607,15745
+"461","Car","Puerto Rico",928539,16944
+"462","Public Transportation","Puerto Rico",7914,1656
+"463","Taxi","Puerto Rico",1726,940
+"464","Motorcycle","Puerto Rico",532,385
+"465","Bicycle","Puerto Rico",923,541
+"466","Walked","Puerto Rico",26107,2842
+"467","Other","Puerto Rico",11533,2322
+"468","Worked From Home","Puerto Rico",78333,5882
+"469","Total","United States",154314179,151398
+"470","Car","United States",116668475,149726
+"471","Public Transportation","United States",3793329,36923
+"472","Taxi","United States",296457,11839
+"473","Motorcycle","United States",166676,7927
+"474","Bicycle","United States",616153,16425
+"475","Walked","United States",3399405,37071
+"476","Other","United States",1805586,31124
+"477","Worked From Home","United States",27568098,105493
