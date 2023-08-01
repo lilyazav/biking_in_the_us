@@ -1,6 +1,6 @@
 Project in progress. 
 
-![](https://github.com/lilyazav/biking_in_the_us/tree/master/public/readme.gif)
+![Demo App](public/readme.gif)
 
 1. PR is in my dataset, but not displayed on the map. 
 2. Bike lane data.
