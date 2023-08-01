@@ -90,7 +90,6 @@
   text-align: center;
 }
 
-
 .float-child-60 {
   width: 60%;
   float: left;
@@ -108,9 +107,22 @@
   float: left;
 }
 
+.float-child-100 {
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
 .graphicHeader {
   width: 100%;
   text-align: center;
   background-color: lightblue;
   padding: 10px;
+}
+
+.rank {
+  border: 1px solid black;
+  padding: 10px 10px 30px;
+  margin: 10px;
+  text-align: left;
 }

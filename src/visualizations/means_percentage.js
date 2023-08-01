@@ -8,10 +8,9 @@ function MeansBarChart({meansData, loc}) {
 
   const margin = {top: 30, right: 30, bottom: 120, left: 60};
   const width = 460 - margin.left - margin.right;
-  const height = 400 - margin.top - margin.bottom;
+  const height = 600 - margin.top - margin.bottom;
 
   useEffect(() => {
-    if( meansData && loc){
       const selectedData = meansData.filter(el => el.Location === loc)
       const total = selectedData[0].People
       selectedData.shift()
@@ -104,7 +103,7 @@ function MeansBarChart({meansData, loc}) {
       .data(selectedData)
       .exit()
       .remove()
-    }}, [meansData, loc])
+    }, [meansData, loc])
  
     return (
       <div className="float-child-30">

@@ -8,6 +8,7 @@ import { faBicycle } from '@fortawesome/free-solid-svg-icons';
 
 import MeansPercentage from './visualizations/means_percentage';
 import CountyMap from './visualizations/county_map';
+import TopNonCar from './visualizations/top_non_car'
 
 import { introText, secondText, thirdText, fourthText, sources } from './text';
 
@@ -27,7 +28,6 @@ function App() {
     function handleLocChange(e){
       const loc = e.target.value
       setLoc(loc)
-
     }
 
     function fetchAllData(){
@@ -49,10 +49,17 @@ function App() {
         fetchAllData()
       }}, [])
 
+     const statesSec = () => {
+            return(<select onChange={handleLocChange} value={loc}>
+              <option value={"United States"}>United States</option>
+              {states.map((st) => <option value={st}>{st}</option>)}
+           </select>)
+     }
+
 
     return (
       <> {
-        states && meansData && countyMapData ?
+        states && meansData && countyMapData && stateBounds ?
         <div className="Main">
         <header className="App-header section">
           <Navbar bg="dark">
@@ -69,28 +76,31 @@ function App() {
           <div className="graphicHeader">
             <h2>Americans Drive... A Lot</h2>
             <h5 style={{margin: "10px", color: '#656363'}}>Source: American Community Survey, 2021</h5>
-            { states ? 
-            <select onChange={handleLocChange}>
-              <option value="United States">United States</option>
-            {states.map((st) => <option value={st}>{st}</option>)}
-          </select>
-          : null }
+            { states ? statesSec() : null }
           </div>
           <div className="float-container">
             <MeansPercentage states={states} meansData={meansData} loc={loc}/>
-            <CountyMap countyMapData={countyMapData} loc={loc} stateBounds={stateBounds}/>   
+            <CountyMap countyMapData={countyMapData} stateBounds={stateBounds} loc={loc}/>   
           </div>      
           { secondText }
           <br/>
           { thirdText }
           <br/>
+          <div className="graphicHeader">
+            <h2>How Else Do We Get Around?</h2>
+            <h5 style={{margin: "10px", color: '#656363'}}>Source: American Community Survey, 2021</h5>
+            { states ? statesSec() : null}
+          </div>
+          <div className="float-container">
+            <TopNonCar countyMapData={countyMapData} loc={loc} />
+          </div>
+          <br/>
           { fourthText }
-      </div>
-      <div className="section" >
-      </div>
-      <div className="section" >
-
-      </div>
+        <br />
+        </div>
+        <div className="section">
+        { sources }
+        </div>
       </div>
       : null
       }

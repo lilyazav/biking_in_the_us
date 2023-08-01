@@ -1,14 +1,29 @@
 Project in progress. 
 
-- Scaling:
-1. Currently using a rough scale transformation between WGS 84 and my SVG. 
-2. Do not have any translation after scaling. Need to figure out the math for this.
-3. I'm pretty sure the math is all different for Alaska and Hawaii.
-4. PR is in my dataset, but not displayed on the map. 
+1. PR is in my dataset, but not displayed on the map. 
+2. Bike lane data.
+3. Need to add a visual component to Top Means
 
-- Issues:
-1. You cannot select a state after scaling. Selecting was working fine without the scale transform.
-2. App is slow as hell. Plan to refactor once I get the features I want in there. 
+---
+Project sketch
 
-- Bike Lanes
-1. Once the above is addressed, I really want to put in feature where you can look at bike lanes for selected cities in your chosen state.
+Pick a state: Arkansas.
+
+Arkansas has ____ counties. 
+
+- Car usage by county
+- Add major cities to map
+- A nice stylized list with population numbers next to the map would be nice. 
+
+Infrastructure spending in your state over the last 20 years
+- Can we pull big projects?
+- Make sure to include sum.
+- Note that comparing across states is not recommended. 
+
+Top non-car mode of transport by county
+State vs state comparison:
+“Your state is”
+x% more likely to drive.
+x% less likely to bike.
+
+Selection of cities for which bike lane info has been analyzed + maps
